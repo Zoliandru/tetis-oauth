@@ -1,6 +1,6 @@
 # tetis-oauth — pages publiques Tetis (GitHub Pages)
 
-Repo **public** : pont HTTPS OAuth (Notion / GitHub) + pages légales (confidentialité, support, conditions). Aucun secret, aucun cookie, aucune analytics.
+Repo **public** : pont HTTPS OAuth (Notion / GitHub) + pages légales (confidentialité, support, conditions) + feuille de route. Aucun secret, aucun cookie, aucune analytics.
 
 L’app iOS reste privée : [`Zoliandru/dumpit-ios`](https://github.com/Zoliandru/dumpit-ios).
 
@@ -13,6 +13,7 @@ https://zoliandru.github.io/tetis-oauth/
 https://zoliandru.github.io/tetis-oauth/privacy.html
 https://zoliandru.github.io/tetis-oauth/support.html
 https://zoliandru.github.io/tetis-oauth/terms.html
+https://zoliandru.github.io/tetis-oauth/roadmap.html
 ```
 
 Contact : `tetis.app@icloud.com`
