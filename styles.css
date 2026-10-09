@@ -164,6 +164,12 @@ footer .meta {
   font-size: 0.85rem;
 }
 
+.prose code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.86em;
+  word-break: break-word;
+}
+
 @media (max-width: 520px) {
   .top { align-items: flex-start; flex-direction: column; }
 }

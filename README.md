@@ -14,6 +14,7 @@ https://zoliandru.github.io/tetis-oauth/privacy.html
 https://zoliandru.github.io/tetis-oauth/support.html
 https://zoliandru.github.io/tetis-oauth/terms.html
 https://zoliandru.github.io/tetis-oauth/roadmap.html
+https://zoliandru.github.io/tetis-oauth/dictionnaires.html
 ```
 
 Contact : `tetis.app@icloud.com`
