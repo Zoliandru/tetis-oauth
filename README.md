@@ -21,7 +21,7 @@ Contact : `tetis.app@icloud.com`
 
 ## Pont OAuth
 
-Notion et GitHub n’acceptent que des redirect `https`. Tetis écoute `dumpit://notion-oauth` / `dumpit://github-oauth` (et `dumpit-dev://` pour Dev). Ces pages font le hop.
+Notion et GitHub n’acceptent que des redirect `https`. Tetis écoute `tetis://notion-oauth` / `tetis://github-oauth` (et `tetis-dev://` pour Dev). Ces pages font le hop.
 
 ```
 https://zoliandru.github.io/tetis-oauth/notion-oauth.html
@@ -32,10 +32,10 @@ https://zoliandru.github.io/tetis-oauth/github-oauth-dev.html
 
 | Fichier | Ouvre |
 | --- | --- |
-| `notion-oauth.html` | `dumpit://notion-oauth?…` |
-| `notion-oauth-dev.html` | `dumpit-dev://notion-oauth?…` |
-| `github-oauth.html` | `dumpit://github-oauth?…` |
-| `github-oauth-dev.html` | `dumpit-dev://github-oauth?…` |
+| `notion-oauth.html` | `tetis://notion-oauth?…` |
+| `notion-oauth-dev.html` | `tetis-dev://notion-oauth?…` |
+| `github-oauth.html` | `tetis://github-oauth?…` |
+| `github-oauth-dev.html` | `tetis-dev://github-oauth?…` |
 
 Query `code`, `state` (et `error`) sont recopiées telles quelles.
 
